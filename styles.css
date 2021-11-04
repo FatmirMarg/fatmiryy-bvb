@@ -1,0 +1,112 @@
+h1 {
+      background-color: yellow;
+
+}
+
+#untertitel-schwarz-gelb {
+      background-color: yellow;
+}
+
+h2 {
+      background-color: yellow;
+      text-align: center;
+}
+
+#text-nach-wappen {
+      text-align: center;
+      background-color: white;
+      margin: 0;
+      padding: 20px;
+}
+
+ul {
+      max-width: 200px;
+      margin: 0 auto;
+}
+
+
+#meine-aufstellung {
+      text-align: center;
+      color: red;
+}
+
+
+#mein-tag {
+      text-align: center;
+}
+
+h3 {
+      text-align: center;
+}
+
+
+body {
+      background-color: yellow;
+}
+
+
+#bild-hintergrund {
+      background-color: white;
+      text-align: center;
+      border: 5px dashed black;
+}
+
+
+#geschichte-des-bvb {
+
+      text-align: center;
+      display: none;
+}
+
+
+
+#the-nice-yellow {
+      background-color: yellow;
+}
+
+#die-neuen-spieler {
+      text-align: center;
+}
+
+h4 {
+      text-align: center;
+      color: red;
+}
+
+#geschBVB {
+      text-align: center;
+}
+
+
+.keeper {
+      text-align: center;
+      flex-direction: column;
+      text-align: center;
+      margin-bottom: 100px;
+}
+
+.devense {
+      display: flex;
+      justify-content: space-around;
+
+}
+
+.middelfield {
+      display: flex;
+      justify-content: space-around;
+    
+}
+
+.forward {
+      display: flex;
+      justify-content: space-around;
+
+}
+
+
+.fussballFeld {
+      background-image: url(https://t3.ftcdn.net/jpg/02/06/34/92/360_F_206349207_yiMhefIYz64OPgZ6Rvxb0SzYjHFftIeh.jpg);
+      background-size: 1500px;
+}
+
+
