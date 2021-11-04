@@ -82,19 +82,19 @@ h4 {
       text-align: center;
       flex-direction: column;
       text-align: center;
-      margin-bottom: 100px;
+      margin-bottom: 50px;
 }
 
 .devense {
       display: flex;
       justify-content: space-around;
-
+      margin-bottom: 50px;
 }
 
 .middelfield {
       display: flex;
       justify-content: space-around;
-    
+      margin-bottom: 50px;
 }
 
 .forward {
